@@ -1,0 +1,15 @@
+pandas
+randomname
+scikit-learn==1.0.2
+datasets~=2.0
+kornia
+matplotlib
+munch
+protobuf
+pytest
+scipy
+sentencepiece==0.1.96
+tqdm
+transformers>=4.18.0
+tokenizers==0.11.6
+xlsxwriter
